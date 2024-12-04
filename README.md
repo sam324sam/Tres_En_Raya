@@ -25,7 +25,7 @@ Este proyecto es un juego de **Tres en Raya** desarrollado en **JavaScript**, **
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6)**
+- **JavaScript **
 
 ## Notas
 
