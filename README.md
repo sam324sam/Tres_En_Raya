@@ -11,7 +11,7 @@ Este proyecto es un juego de **Tres en Raya** desarrollado en **JavaScript**, **
 
 ## Archivos
 
-- `index.html`: Contiene la estructura principal del juego.
+- `Tres.html`: Contiene la estructura principal del juego.
 - `Tres.js`: Implementa la lógica del juego, detección de ganadores y reinicio del tablero.
 - `Tres.css`: Proporciona el diseño visual del tablero y los estilos generales.
 
