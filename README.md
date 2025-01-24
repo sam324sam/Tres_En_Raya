@@ -1,3 +1,5 @@
+![Estado](https://img.shields.io/badge/Estado-Acabado-brightgreen?style=plastic)
+
 # Tres en Raya
 
 Este proyecto es un juego de **Tres en Raya** desarrollado en **JavaScript**, **HTML**, y **CSS**. Es un ejercicio básico para practicar manipulación del DOM, eventos y lógica en un entorno web.
