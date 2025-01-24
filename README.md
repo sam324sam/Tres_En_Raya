@@ -2,6 +2,10 @@
 
 Este proyecto es un juego de **Tres en Raya** desarrollado en **JavaScript**, **HTML**, y **CSS**. Es un ejercicio básico para practicar manipulación del DOM, eventos y lógica en un entorno web.
 
+<div align="center">
+  <img src="Juego_De_Memoria.png" alt="Imagen del juego de memoria js" width="300">
+</div>
+
 ## Descripción
 
 - Dos jugadores toman turnos para colocar su símbolo (X o O) en un tablero de 3x3.
